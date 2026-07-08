@@ -1,1 +1,2 @@
  Overview of the repository and learning roadmap.
+Includes hands-on examples and command explanations.
